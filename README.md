@@ -7,7 +7,7 @@ Mobile app for land owners built on android platform
 - [Contributors](#Contributors)
 
 ## Prerequiste
-
+- [Setting up](#Setting)
 
 ## Related Resources
 
