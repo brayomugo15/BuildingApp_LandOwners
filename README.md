@@ -7,3 +7,6 @@ App for land owners
 - [Contributors](#Contributors)
 
 ## Prerequiste
+
+
+## Related Resources
