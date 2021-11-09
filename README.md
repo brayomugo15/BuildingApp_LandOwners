@@ -13,6 +13,8 @@ Mobile app for land owners built on android platform
 
 ### Setting Up
 
+### Permissions
+
 ## Related Resources
 
 
