@@ -1,5 +1,5 @@
 # Building App - LandOwners Mobile Application
-App for land owners
+Mobile app for land owners built on android platform
 
 ## Table of Contents
 - [Prerequiste](#Prerequiste)
