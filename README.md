@@ -1,2 +1,2 @@
-# BuildingApp_LandOwners
+# Building App - LandOwners
 App for land owners
