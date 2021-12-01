@@ -20,5 +20,6 @@ Building owners can access county government services through the platform
 
 ## Related Resources
 
+### Screenshots
 
 ## Contributors
